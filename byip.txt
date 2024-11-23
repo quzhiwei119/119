@@ -7,3 +7,6 @@
 168.100.6.132:2087#Cloudflare 伦敦US
 108.165.152.14:2096#Cloudflare 伦敦US
 108.165.152.169:2087#Cloudflare 伦敦US
+162.159.192.143:443#US Cloudflare
+162.159.195.65:443#US Cloudflare
+172.64.109.2:443#HK Cloudflare
